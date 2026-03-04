@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alexia 👋
 
-<!--
-**alexiakarla/alexiakarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Career transition to Data Science  
+📚 Currently studying Python and Data Analysis  
+💻 Building practical projects to strengthen my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I come from a customer service background and I'm transitioning into the data field.  
+I enjoy solving problems, organizing information and turning data into insights.
+
+I'm currently learning:
+
+- Python
+- Data manipulation
+- Logical structures (while, if, functions)
+- Git and GitHub
+
+---
+
+## 📌 Goals
+
+- Become a Junior Data Analyst / Data Scientist
+- Build consistent real-world projects
+- Keep evolving through practice
+
+---
+
+✨ This profile is a reflection of my learning journey.
